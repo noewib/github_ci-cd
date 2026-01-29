@@ -1,4 +1,4 @@
-# Gemini Chat - GitHub Actions CI/CD
+# GitHub Actions CI/CD - Gemini Chat
 
 Application ChatGPT-like utilisant Google Gemini AI.
 
